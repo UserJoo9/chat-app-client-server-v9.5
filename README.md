@@ -1,5 +1,12 @@
-# Multi client & server chat app
+A high-performance, multi-threaded chat application built with Python Sockets.
 
-![Server side](https://ibb.co/SRJy0jc)
+## 🌟 Features
+- **Multi-Client:** Supports multiple users simultaneously using `threading`.
+- **Real-Time:** Instant message broadcasting across all connected clients.
+- **Reliable:** Uses TCP protocol for stable and lossless communication.
+- **Minimalist:** Clean, terminal-based interface with low resource usage.
 
-![Client side](https://ibb.co/zsYypN3)
+## 🛠️ Tech Stack
+- **Python 3.x**
+- **Socket** (Networking)
+- **Threading** (Concurrency)
